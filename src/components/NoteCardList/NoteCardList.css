@@ -1,0 +1,40 @@
+.note-card-list{
+  background-color: #E5E5E5;  
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border: 1px solid #E5E5E5; 
+}
+
+.note-card-list__search{
+  width: 100%;   
+  background-color: #E5E5E5;
+  height: 50px;
+  padding: 5px 5px;
+}
+.note-card-list__list{
+  background-color: #FFFFFF;   
+  position: absolute;
+  top: 49px;
+  bottom: 4px;
+  left: 5px;
+  right: 5px;
+  overflow: auto;  
+  border: 1px solid #CCCCCC;
+}
+
+.note-card-list__card-hiden{
+  display: none
+}
+.note-card-list__card-active{
+  background-color: #1D85D0;
+  color: #FFFFFF;
+}
+
+.note-card-list__list ul {
+  list-style-type: none;
+}
+
+.note-card-list__list li {
+  margin-bottom: 0;
+}

@@ -1,0 +1,16 @@
+.note-card{
+  background-color: #FFFFFF;  
+  width: 100%;
+  height: 85px;
+  border-bottom: 1px solid #E5E5E5;
+  padding: 0 10px;
+}
+
+.note-card__note-text{
+  width: 100%;   
+}
+  
+.note-card__note-title{
+  margin-bottom: 0px;
+  height: 40%;
+}

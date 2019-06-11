@@ -1,0 +1,25 @@
+.view-form {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+  
+.view-form__viewblock {
+  position: relative;
+  background-color: #E5E5E5;
+}
+	
+.view-form__viewbox {
+  position: absolute;
+  top: 50px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+}
+
+
+.heightAll {
+  height: 100%;
+}

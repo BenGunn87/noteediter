@@ -1,0 +1,16 @@
+.edit-form {
+  background-color: #E5E5E5;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.edit-form__editbox {
+  position: absolute;
+  top: 50px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+}
